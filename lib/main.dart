@@ -30,6 +30,7 @@ class App extends StatelessWidget {
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
                   color: Colors.pinkAccent,
+                  fontFamily: 'Garamond',
                 ),
               ),
               SizedBox(height: 10),
@@ -38,6 +39,7 @@ class App extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 18,
                   color: Colors.pink,
+                  fontFamily: 'Garamond',
                 ),
               ),
               SizedBox(height: 20),
